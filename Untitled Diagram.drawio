@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" modified="2021-01-12T08:16:59.585Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Tlb8OyhlFODk0EwyCDLQ" version="14.1.9" type="github" pages="3">
+  <diagram id="ukDriJtzRlrvt78o2frc" name="Scelta classe">
+    <mxGraphModel dx="1577" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ehTkpPmPeHadm6n4-0in-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="95" width="480" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="ehTkpPmPeHadm6n4-0in-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=10;fillColor=#ffffff;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="215" y="190" width="450" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ehTkpPmPeHadm6n4-0in-5" value="Domani" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fontSize=17;fontColor=#666666;fontStyle=1;resizeHeight=1;" vertex="1" parent="ehTkpPmPeHadm6n4-0in-2">
+          <mxGeometry x="1" width="237" height="50" relative="1" as="geometry">
+            <mxPoint x="-238" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ehTkpPmPeHadm6n4-0in-6" value="Oggi" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fontSize=17;fontColor=#ffffff;fontStyle=1;fillColor=#008cff;strokeColor=#008cff;resizeHeight=1;" vertex="1" parent="ehTkpPmPeHadm6n4-0in-2">
+          <mxGeometry width="210" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ehTkpPmPeHadm6n4-0in-23" value="4C" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ehTkpPmPeHadm6n4-0in-24" value="&lt;font style=&quot;font-size: 22px&quot;&gt;4Cinf&lt;br&gt;4Csa&lt;/font&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ehTkpPmPeHadm6n4-0in-29" value="&lt;font style=&quot;font-size: 28px&quot;&gt;Fammi sapere che devo fare!&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;whiteSpace=wrap;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="380" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4N4CBsZid49DhZkb3sAy" name="Prima di aver premuto il bottone">
+    <mxGraphModel dx="1351" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="RQxVGKw7tEKzPONmaKaU-0" />
+        <mxCell id="RQxVGKw7tEKzPONmaKaU-1" parent="RQxVGKw7tEKzPONmaKaU-0" />
+        <mxCell id="RQxVGKw7tEKzPONmaKaU-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RQxVGKw7tEKzPONmaKaU-1">
+          <mxGeometry x="200" y="95" width="480" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="RQxVGKw7tEKzPONmaKaU-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=10;fillColor=#ffffff;strokeColor=#666666;" vertex="1" parent="RQxVGKw7tEKzPONmaKaU-1">
+          <mxGeometry x="215" y="190" width="450" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RQxVGKw7tEKzPONmaKaU-4" value="Domani" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fontSize=17;fontColor=#666666;fontStyle=1;resizeHeight=1;" vertex="1" parent="RQxVGKw7tEKzPONmaKaU-3">
+          <mxGeometry x="1" width="237" height="50" relative="1" as="geometry">
+            <mxPoint x="-238" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RQxVGKw7tEKzPONmaKaU-5" value="Oggi" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fontSize=17;fontColor=#ffffff;fontStyle=1;fillColor=#008cff;strokeColor=#008cff;resizeHeight=1;" vertex="1" parent="RQxVGKw7tEKzPONmaKaU-3">
+          <mxGeometry width="210" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RQxVGKw7tEKzPONmaKaU-6" value="4Cinf" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="RQxVGKw7tEKzPONmaKaU-1">
+          <mxGeometry x="220" y="280" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RQxVGKw7tEKzPONmaKaU-8" value="&lt;font style=&quot;font-size: 28px&quot;&gt;Fammi sapere che devo fare!&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;whiteSpace=wrap;fillColor=#008CFF;" vertex="1" parent="RQxVGKw7tEKzPONmaKaU-1">
+          <mxGeometry x="240" y="430" width="380" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_R5_E0lqYChKO5Vrv_cJ" name="Dopo aver premuto il bottone">
+    <mxGraphModel dx="2365" dy="1395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="DiXq0NzESM1EkYtFWqtN-0" />
+        <mxCell id="DiXq0NzESM1EkYtFWqtN-1" parent="DiXq0NzESM1EkYtFWqtN-0" />
+        <mxCell id="DiXq0NzESM1EkYtFWqtN-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DiXq0NzESM1EkYtFWqtN-1">
+          <mxGeometry x="200" y="95" width="480" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="DiXq0NzESM1EkYtFWqtN-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=10;fillColor=#ffffff;strokeColor=#666666;" vertex="1" parent="DiXq0NzESM1EkYtFWqtN-1">
+          <mxGeometry x="215" y="190" width="450" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DiXq0NzESM1EkYtFWqtN-4" value="Domani" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fontSize=17;fontColor=#666666;fontStyle=1;resizeHeight=1;" vertex="1" parent="DiXq0NzESM1EkYtFWqtN-3">
+          <mxGeometry x="1" width="237" height="50" relative="1" as="geometry">
+            <mxPoint x="-238" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DiXq0NzESM1EkYtFWqtN-5" value="Oggi" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fontSize=17;fontColor=#ffffff;fontStyle=1;fillColor=#008cff;strokeColor=#008cff;resizeHeight=1;" vertex="1" parent="DiXq0NzESM1EkYtFWqtN-3">
+          <mxGeometry width="210" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DiXq0NzESM1EkYtFWqtN-6" value="4Cinf" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="DiXq0NzESM1EkYtFWqtN-1">
+          <mxGeometry x="220" y="280" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DiXq0NzESM1EkYtFWqtN-7" value="&lt;font style=&quot;font-size: 28px&quot;&gt;Fammi sapere che devo fare!&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;whiteSpace=wrap;fillColor=#008CFF;" vertex="1" parent="DiXq0NzESM1EkYtFWqtN-1">
+          <mxGeometry x="240" y="430" width="380" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DiXq0NzESM1EkYtFWqtN-8" value="&lt;font style=&quot;font-size: 38px&quot;&gt;&lt;b&gt;Devi andare&lt;br&gt;a scuola!!!&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.bulletedList;textColor=#666666;mainText=,,,,;textSize=17;bulletStyle=none;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=17;fontColor=#666666;" vertex="1" parent="DiXq0NzESM1EkYtFWqtN-1">
+          <mxGeometry x="260" y="600" width="350" height="135" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
