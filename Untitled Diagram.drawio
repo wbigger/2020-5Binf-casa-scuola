@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T08:15:11.736Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Q5qOS4hpoi5atZWWnPy8" version="14.1.9" type="github" pages="3">
-  <diagram id="ukDriJtzRlrvt78o2frc" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-01-12T08:16:59.585Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Tlb8OyhlFODk0EwyCDLQ" version="14.1.9" type="github" pages="3">
+  <diagram id="ukDriJtzRlrvt78o2frc" name="Scelta classe">
     <mxGraphModel dx="1577" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -30,7 +30,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="4N4CBsZid49DhZkb3sAy" name="Page-2">
+  <diagram id="4N4CBsZid49DhZkb3sAy" name="Prima di aver premuto il bottone">
     <mxGraphModel dx="1351" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="RQxVGKw7tEKzPONmaKaU-0" />
@@ -58,8 +58,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="_R5_E0lqYChKO5Vrv_cJ" name="Page-3">
-    <mxGraphModel dx="1892" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="_R5_E0lqYChKO5Vrv_cJ" name="Dopo aver premuto il bottone">
+    <mxGraphModel dx="2365" dy="1395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="DiXq0NzESM1EkYtFWqtN-0" />
         <mxCell id="DiXq0NzESM1EkYtFWqtN-1" parent="DiXq0NzESM1EkYtFWqtN-0" />
